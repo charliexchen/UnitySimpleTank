@@ -4,5 +4,5 @@ In addition to unity, I also learned about making 3D models in blender, unwrappi
 
 
 <p align="center">
-  <img width="400" height="300" src="tank.gif">
+  <img  height="500" src="tank.gif">
 </p>
